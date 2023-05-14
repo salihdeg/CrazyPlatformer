@@ -1417,7 +1417,7 @@ MonoBehaviour:
   _positions:
   - {x: -7.499414, y: -0.47, z: 0}
   - {x: -7.499414, y: 3.212563, z: 0}
-  _speed: 3
+  _speed: 2.3
   _lookMoveSide: 0
   _moveWithPlayer: 1
 --- !u!1001 &1235424388
